@@ -101,6 +101,22 @@ img {
   font-size: 16px;
 }
 
+#header img {
+  float: left;
+  margin: 0;
+  padding: 0;
+  width: 100px;
+}
+
+#header div {
+  background-color: #dadada;
+  margin: 0;
+  padding: 0;
+  width:auto;
+  height: auto;
+}
+
+
 #footer {
   width: 100%;
   height: 100px;
